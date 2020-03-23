@@ -15,7 +15,7 @@ import { environment } from './../environments/environment';
     B2cStorefrontModule.withConfig({
       backend: {
         occ: {
-	baseUrl: 'https://api.cwlb454z54-shpm1-s1-public.model-t.cc.commerce.ondemand.com',
+	baseUrl: 'api.cwlb454z54-shpm1-s1-public.model-t.cc.commerce.ondemand.com',
           legacy: false,
           prefix: '/rest/v2/'
         }
